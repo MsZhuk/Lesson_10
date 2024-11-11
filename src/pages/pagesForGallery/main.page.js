@@ -1,5 +1,5 @@
 import { th } from '@faker-js/faker';
-import { BasePage } from '../base.page.js';
+import { BasePage } from '../base.page';
 
 export class MainPage extends BasePage {
   constructor(page) {
